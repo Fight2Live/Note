@@ -2,7 +2,7 @@
 
 #### 目录
 
--  [Git](https://github.com/Lansiny/Note/tree/master/Git)
+- [Git](https://github.com/Lansiny/Note/tree/master/Git)
   - [版本控制](https://github.com/Lansiny/Note/tree/master/Git/版本控制.md)
   - [远端仓库与协作开发](https://github.com/Lansiny/Note/tree/master/Git/远端仓库与协作开发.md)
 
